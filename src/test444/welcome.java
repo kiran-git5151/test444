@@ -7,7 +7,7 @@ public class welcome {
 
 		System.out.println("welcome to my first prohect");
 		
-		
+		System.out.println("welcome to my first prohect22");
 		
 	}
 
